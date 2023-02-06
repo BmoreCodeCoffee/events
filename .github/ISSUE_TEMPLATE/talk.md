@@ -1,8 +1,8 @@
 ---
-name: Presentation/Talk
+name: Talk
 about: Submit a presentation/talk proposal.
 title: ':speech_balloon: [TITLE OF YOUR PRESENTATION HERE]'
-labels: presentation
+labels: talk
 assingnees: ''
 ---
 
