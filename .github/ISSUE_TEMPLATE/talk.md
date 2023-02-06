@@ -41,6 +41,12 @@ assingnees: ''
 **Is there a month(s)/date(s) works best for you?**
 <!-- You can list multiple months/dates. Our usual schedule is every other Saturday in differing locations. Please let us know here if your talk is location specific. You can also just let us know if you're flexible. -->
 
+**Is this practice for a talk/presentation at another event?**
+- [ ] Yes, and I would like feedback
+- [ ] Yes, but I do not need feedback
+- [ ] No
+<!-- If you would like feedback, please specify what type of feedback you are looking for (i.e. - pacing, clarity, etc.) if possible. -->
+
 ## Meta
 
 **Do you need help crafting your talk?**
