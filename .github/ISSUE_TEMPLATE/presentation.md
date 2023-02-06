@@ -1,10 +1,17 @@
 ---
 name: Presentation/Talk
-about: Submit a presentation/talk idea.
+about: Submit a presentation/talk proposal.
 title: ':speech_balloon: [TITLE OF YOUR PRESENTATION HERE]'
 labels: presentation
 assingnees: ''
 ---
+
+<!--
+  Some things to think about before submitting:
+
+  1. Does this talk require audience participation? If yes, you might want to submit for a workshop instead.
+  2. Is this talk 5 - 15 minutes in length? We might recommend you submit
+-->
 
 ## About You
 
@@ -31,7 +38,7 @@ assingnees: ''
 **What will you require for your talk/presentation?**
 <!-- This can include a screen to present on, a microphone, a specific piece of equipment, etc. This may determine if one location is better suited for your presentation. -->
 
-**Is there a month/date that works best for you?**
+**Is there a month(s)/date(s) works best for you?**
 <!-- You can list multiple months/dates. Our usual schedule is every other Saturday in differing locations. Please let us know here if your talk is location specific. You can also just let us know if you're flexible. -->
 
 ## Meta

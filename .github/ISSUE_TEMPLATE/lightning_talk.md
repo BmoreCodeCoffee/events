@@ -1,6 +1,6 @@
 ---
 name: Lightning Talk
-about: Submit a talk idea to participating meetups.
+about: Submit a lightning talk.
 title: ':zap: [TITLE OF YOUR TALK HERE]'
 labels: lightning
 assignees: ''
