@@ -23,7 +23,7 @@ assingnees: ''
 **What your talk is about:**
 
 **How long will your talk be?**
-- [ ] 5-15 minutes
+- [ ] 5-15 minutes (recommend submitting a [lightning talk](https://github.com/BmoreCodeCoffee/events/blob/main/.github/ISSUE_TEMPLATE/lightning_talk.md))
 - [ ] 20-30 minutes
 - [ ] 30-45 minutes
 - [ ] 60 minutes or more
