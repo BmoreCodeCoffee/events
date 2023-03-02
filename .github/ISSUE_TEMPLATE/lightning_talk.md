@@ -6,20 +6,20 @@ labels: lightning
 assignees: ''
 
 ---
+**Todays Date:**
 
 ## About You
 
 **Your Name:**
 
-**Twitter handle (optional):** 
+
+**Slack handle (optional):** 
 
 **The best way to reach out to you:**
 
 **A quick bio:**
 
 ## Your Talk
-
-**Title:**
 
 **What your lightning talk is about:**
 
