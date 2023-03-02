@@ -47,7 +47,10 @@ Like a talk, this is usually lead by a person or a group on a specific topic but
 If you are interested in hosting a **workshop**, fillout a [workshop issue](https://github.com/BmoreCodeCoffee/events/issues/new?assignees=&labels=workshop&template=workshop.md&title=%3Atelescope%3A+%5BTITLE+OF+YOUR+WORKSHOP+HERE%5D)
 
 ### Lightning Talk
-About once a quarter, we like to host a space for lightning talks. These are usually 10 minute talks people have prepared (or not) about a specific topic. The purpose of these could be informative, sharing about a personal project or issue, etc. If you are interested in participating in our next Lightning Talk event, submit one a [lightning talk issue](https://github.com/BmoreCodeCoffee/events/issues/new?assignees=&labels=lightning&template=lightning_talk.md&title=%3Azap%3A+%5BTITLE+OF+YOUR+TALK+HERE%5D)
+About once a quarter, we like to host a space for lightning talks. These are usually 10-15 minute talks people have prepared (or not) about a specific topic. The purpose of these could be informative, sharing about a personal project or issue, etc. If you are interested in participating in our next Lightning Talk event, submit one at [lightning talk issue](https://github.com/BmoreCodeCoffee/events/issues/new?assignees=&labels=lightning&template=lightning_talk.md&title=%3Azap%3A+%5BTITLE+OF+YOUR+TALK+HERE%5D)
+
+Please see the guidlines for more information on how the talks are run 
+[embed]file:///Users/valentineokundaye/Downloads/Main_Considerations%20(1).pdf[/embed]
 
 ### Event
 This is more general than the first two options. Do you want to host a mini-hackathon? Or your event isn't _quite_ described in the descriptions abve? Fill out an [event issue](https://github.com/BmoreCodeCoffee/events/issues/new?assignees=&labels=event&template=event.md&title=%3Acalendar%3A+%5BTITLE+OF+YOUR+EVENT+HERE%5D).
