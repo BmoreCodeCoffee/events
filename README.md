@@ -50,7 +50,7 @@ If you are interested in hosting a **workshop**, fillout a [workshop issue](http
 About once a quarter, we like to host a space for lightning talks. These are usually 10-15 minute talks people have prepared (or not) about a specific topic. The purpose of these could be informative, sharing about a personal project or issue, etc. If you are interested in participating in our next Lightning Talk event, submit one at [lightning talk issue](https://github.com/BmoreCodeCoffee/events/issues/new?assignees=&labels=lightning&template=lightning_talk.md&title=%3Azap%3A+%5BTITLE+OF+YOUR+TALK+HERE%5D)
 
 Please see the guidlines for more information on how the talks are run 
-[Lightning Talk Guidelines](file:///Users/valentineokundaye/Downloads/Main_Considerations.2%20(3).pdf)
+[Lightning Talk Guidelines](https://github.com/BmoreCodeCoffee/events/files/10873030/Main_Considerations.2.pdf)
 
 
 ### Event
